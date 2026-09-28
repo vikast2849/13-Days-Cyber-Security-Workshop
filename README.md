@@ -19,19 +19,19 @@ This repository serves as a centralized, professional documentation hub for the 
 │
 ├── assets/
 │
-├── Day-1/
+├── Day-01/
 │   └── Day-01-Notes.md
 │
-├── Day-2/
+├── Day-02/
 │   └── Day-02-Notes.md
 │
-├── Day-3/
-├── Day-4/
-├── Day-5/
-├── Day-6/
-├── Day-7/
-├── Day-8/
-├── Day-9/
+├── Day-03/
+├── Day-04/
+├── Day-05/
+├── Day-06/
+├── Day-07/
+├── Day-08/
+├── Day-09/
 ├── Day-10/
 ├── Day-11/
 ├── Day-12/
@@ -44,15 +44,15 @@ This repository serves as a centralized, professional documentation hub for the 
 
 | Day | Topic & Modules | Status | Link |
 | :--- | :--- | :---: | :---: |
-| **Day 1** | **Cyber Security Fundamentals & Networking Basics**<br>• CIA Triad & Threat Landscape<br>• Operating System & Server Architectures<br>• 14 Domains of Cyber Security & GRC / OT-ICS<br>• Red, Blue & Purple Security Teams<br>• OSI 7-Layer Model & IPv4 Classes<br>• Public vs. Private IP Addressing & Subnet Masks | ✅ Completed | [Day-1 Notes](./Day-1/Day-01-Notes.md) |
-| **Day 2** | **Advanced Networking, Operating Systems & Cloud Fundamentals**<br>• Subnetting, Supernetting & Routing Protocols (RIP, EIGRP, BGP)<br>• Port Number Ranges (Well-known, Registered, Ephemeral)<br>• Web State Concepts (Cookies, Sessions, Caching, Buffers)<br>• OS Management Modules, Kernel & Booting Sequences<br>• Linux Distributions (Red Hat vs. Debian Families)<br>• Remote Connectivity Matrix (SSH, RDP, WinRM)<br>• Linux Shells Comparison (`bash`, `zsh`, `fish`, etc.)<br>• Cloud Computing & AWS Global Infrastructure | ✅ Completed | [Day-2 Notes](./Day-2/Day-02-Notes.md) |
-| **Day 3** | *Day-3 Workshop Content* | ⏳ Upcoming | [Day-3](./Day-3/) |
-| **Day 4** | *Day-4 Workshop Content* | ⏳ Upcoming | [Day-4](./Day-4/) |
-| **Day 5** | *Day-5 Workshop Content* | ⏳ Upcoming | [Day-5](./Day-5/) |
-| **Day 6** | *Day-6 Workshop Content* | ⏳ Upcoming | [Day-6](./Day-6/) |
-| **Day 7** | *Day-7 Workshop Content* | ⏳ Upcoming | [Day-7](./Day-7/) |
-| **Day 8** | *Day-8 Workshop Content* | ⏳ Upcoming | [Day-8](./Day-8/) |
-| **Day 9** | *Day-9 Workshop Content* | ⏳ Upcoming | [Day-9](./Day-9/) |
+| **Day 01** | **Cyber Security Fundamentals & Networking Basics**<br>• CIA Triad & Threat Landscape<br>• Operating System & Server Architectures<br>• 14 Domains of Cyber Security & GRC / OT-ICS<br>• Red, Blue & Purple Security Teams<br>• OSI 7-Layer Model & IPv4 Classes<br>• Public vs. Private IP Addressing & Subnet Masks | ✅ Completed | [Day-01 Notes](./Day-01/Day-01-Notes.md) |
+| **Day 02** | **Advanced Networking, Operating Systems & Cloud Fundamentals**<br>• Subnetting, Supernetting & Routing Protocols (RIP, EIGRP, BGP)<br>• Port Number Ranges (Well-known, Registered, Ephemeral)<br>• Web State Concepts (Cookies, Sessions, Caching, Buffers)<br>• OS Management Modules, Kernel & Booting Sequences<br>• Linux Distributions (Red Hat vs. Debian Families)<br>• Remote Connectivity Matrix (SSH, RDP, WinRM)<br>• Linux Shells Comparison (`bash`, `zsh`, `fish`, etc.)<br>• Cloud Computing & AWS Global Infrastructure | ✅ Completed | [Day-02 Notes](./Day-02/Day-02-Notes.md) |
+| **Day 03** | *Day-03 Workshop Content* | ⏳ Upcoming | [Day-03](./Day-03/) |
+| **Day 04** | *Day-04 Workshop Content* | ⏳ Upcoming | [Day-04](./Day-04/) |
+| **Day 05** | *Day-05 Workshop Content* | ⏳ Upcoming | [Day-05](./Day-05/) |
+| **Day 06** | *Day-06 Workshop Content* | ⏳ Upcoming | [Day-06](./Day-06/) |
+| **Day 07** | *Day-07 Workshop Content* | ⏳ Upcoming | [Day-07](./Day-07/) |
+| **Day 08** | *Day-08 Workshop Content* | ⏳ Upcoming | [Day-08](./Day-08/) |
+| **Day 09** | *Day-09 Workshop Content* | ⏳ Upcoming | [Day-09](./Day-09/) |
 | **Day 10** | *Day-10 Workshop Content* | ⏳ Upcoming | [Day-10](./Day-10/) |
 | **Day 11** | *Day-11 Workshop Content* | ⏳ Upcoming | [Day-11](./Day-11/) |
 | **Day 12** | *Day-12 Workshop Content* | ⏳ Upcoming | [Day-12](./Day-12/) |
